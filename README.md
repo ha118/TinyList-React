@@ -6,3 +6,5 @@
 Currently no API is intergrated in TinyList. But any API can be easily integrated as the base code for integration is present.
 
 ## Demo
+The app can be tested on Heroku.\
+https://tinylist-react.herokuapp.com/
